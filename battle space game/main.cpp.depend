@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1648757596 source:c:\users\lethe\onedrive\desktop\main.cpp\libbattle.cpp
+	"libbattle.h"
+
+1648757596 c:\users\lethe\onedrive\desktop\main.cpp\libbattle.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1648757596 source:c:\users\lethe\onedrive\desktop\main.cpp\main.cpp
+	"libbattle.h"
+
+1648757596 source:c:\users\lethe\onedrive\desktop\old pracs\battle space game\libbattle.cpp
+	"libbattle.h"
+
+1648757596 c:\users\lethe\onedrive\desktop\old pracs\battle space game\libbattle.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
